@@ -32,27 +32,6 @@ const developer = {
 
 <br clear="both"/>
 
-## Core Tech
-
-**Frontend:**
-- HTML5, CSS3, JavaScript (ES6+)
-- React for building user interfaces
-
-**Backend:**
-- Node.js & Express for server-side development
-- FastAPI for Python-based APIs
-
-**Database:**
-- PostgreSQL for relational data
-- MongoDB for document storage
-
-**Tools & Workflow:**
-- Git & GitHub for version control
-- Figma for design and prototyping
-- Docker for containerization
-
----
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
@@ -68,36 +47,6 @@ const developer = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-##  Current Focus
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7EFF&center=true&vCenter=true&width=600&lines=Learning+new+technologies;Building+meaningful+projects;Exploring+web+development;Creating+better+user+experiences" alt="Current Focus" />
-
-</div>
-
-**What I'm working on:**
--  Exploring modern web frameworks and tools
--  Deepening my understanding of full-stack development  
--  Looking to collaborate on open source projects
--  Ask me about web development, JavaScript, or React
--  Fun fact: I believe great code tells a story
-
-##  Goals & Interests
-
-<div align="center">
-
-|  **Current Projects** |  **Learning Goals** |  **Interests** |
-|-------------------------|----------------------|-------------------|
-| Building web apps | Advanced React patterns | UI/UX Design |
-| API development | Database optimization | Developer tools |
-| Open source contributions | DevOps practices | Automation |
-
-</div>
-
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TranMaiTienDat&style=flat-square&color=blue" alt="Profile Views"/>
