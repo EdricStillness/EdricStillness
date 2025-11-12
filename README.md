@@ -58,7 +58,8 @@ const developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7EFF&center=true&vCenter=true&width=600&lines=Learning+new+technologies;Building+meaningful+projects;Exploring+web+development;Creating+better+user+experiences" alt="Current Focus" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9wZ2tjcWplbDBsYzFlZHp5ZWtuMmNmY2hxN3ZiNTVnNnEyaDZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/itMtKey6cL6MTyuqhB/giphy.gif" alt="Current Focus" width="600"/>
+
 
 </div>
 
