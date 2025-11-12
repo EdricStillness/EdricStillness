@@ -23,7 +23,9 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+## About Me
+
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9wZ2tjcWplbDBsYzFlZHp5ZWtuMmNmY2hxN3ZiNTVnNnEyaDZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/itMtKey6cL6MTyuqhB/giphy.gif" alt="Coder GIF" width="400">
 
 - Studying **Bachelor of Computer Science** at **Swinburne University of Technology** (2022–2025)  
 - Focused on building experiences that feel effortless for users  
@@ -31,7 +33,6 @@ const developer = {
 - I strive to design with empathy and code with purpose  
 
 <br clear="both"/>
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
@@ -54,14 +55,11 @@ const developer = {
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 
-##  Current Focus
+## Current Focus
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9wZ2tjcWplbDBsYzFlZHp5ZWtuMmNmY2hxN3ZiNTVnNnEyaDZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/itMtKey6cL6MTyuqhB/giphy.gif" 
-     alt="Developer animation" 
-     width="600" 
-     />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7EFF&center=true&vCenter=true&width=600&lines=Learning+new+technologies;Building+meaningful+projects;Exploring+web+development;Creating+better+user+experiences" alt="Current Focus" />
 
 </div>
 
