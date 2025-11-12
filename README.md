@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhpZWZrY3ZmN2RtOXdpOG1heGFicWQweTN3ZmdlcDB3ZWExcXR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TVeW0ypBoGniVQLUQp/giphy.gif" alt="Intro GIF" width="400">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVpaWI2Ym5wd21zbGU0M2E2cTh5N2c1ZGNtd3pvMW1vYXZxNTByYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Intro GIF" width="400">
 
 
 ---
