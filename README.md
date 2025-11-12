@@ -25,6 +25,7 @@ const developer = {
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9wZ2tjcWplbDBsYzFlZHp5ZWtuMmNmY2hxN3ZiNTVnNnEyaDZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/itMtKey6cL6MTyuqhB/giphy.gif" alt="Coder GIF" width="400">
 
+
 - Studying **Bachelor of Computer Science** at **Swinburne University of Technology** (2022–2025)  
 - Focused on building experiences that feel effortless for users  
 - Driven by curiosity and continuous growth  
