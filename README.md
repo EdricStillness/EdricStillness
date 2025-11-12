@@ -22,9 +22,8 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  About Me
-
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+
 - Studying **Bachelor of Computer Science** at **Swinburne University of Technology** (2022–2025)  
 - Focused on building experiences that feel effortless for users  
 - Driven by curiosity and continuous growth  
