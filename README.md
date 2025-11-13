@@ -27,7 +27,7 @@ const developer = {
 ## About Me
 
 
-<img align="right" src="=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtvNm4xdzg4eDN0bmk0bGJlZXQ3M3RwcDJiMTBnbHFycWlqbWExYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/itMtKey6cL6MTyuqhB/giphy.gif" width="400">
+<img align="right" src="=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh3bW4ybnRyd3NzNTdnN2Zucmo0bjVzamhvd216cnNzYXQwa3NqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G1X87RbwxK2EgZQbAd/giphy.gif" width="400">
 
 
 - Studying **Bachelor of Computer Science** at **Swinburne University of Technology** (2022–2025)  
