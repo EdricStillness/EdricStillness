@@ -27,7 +27,7 @@ const developer = {
 ## About Me
 
 
-<img align="right" src="https://media.giphy.com/media/itMtKey6cL6MTyuqhB/giphy.gif
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2h2Z3Vld3lkOWc5cDhraXR0b3hlbDliM2p6eXJ1dHpnd2NzZTh5ciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/itMtKey6cL6MTyuqhB/giphy.gif
 " width="400">
 
 
