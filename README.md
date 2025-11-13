@@ -27,7 +27,7 @@ const developer = {
 ## About Me
 
 
-<img align="right" src="https://giphy.com/gifs/manutd-manchester-united-mufc-ggmu-hryis7A55UXZNCUTNA
+<img  src="https://giphy.com/gifs/manutd-manchester-united-mufc-ggmu-hryis7A55UXZNCUTNA
 " width="400">
 
 
